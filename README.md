@@ -1,35 +1,52 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+### Eaii devs ✌️😁
 
-<p align="left"> 
-  Olá, Sou Weslei Possidonio <strong>Desenvolvedor Front-End</strong>. </p> 
-  
-  <p align="left"> Atualmente cursando 2º periodo de Engenharia de Software e começando os estudos em JavaScript, estou em migração de carreira em busca do primeiro enprego na área. </p>
+Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
-##
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<p align="left">
-  🦄 Habilidades: <strong>HTML | CSS.</strong>
-</p>
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-<p align="left">
-  💼 Ferramentas: <strong>VSCode | GIT | FIGMA | GITHUB</strong>
-</p>
+```kotlin
+object **WesleiPossidonio** {
+ val name = "Weslei França Possidonio"
+ val acknowledgements = "Desenvolverdor Front-End"
+ 
+ val primarySkillset = "humility, agility, teamwork"
+ val  = listOf("HTML", "CSS", "JavaScript", "Git", "GitHub") 
 
-<p align="left">
-  💌 Caso queira bater um papo comigo, não hesite em me enviar uma mensagem.  ⤵️
-</p>
+}
+```
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+## **Linguagens e Ferramentas:**  
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-  <div align=”center”>
-    
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleiPossidonio&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=WesleiPossidonio&show_icons=true&theme=dracula&line_height=27" alt="**WesleiPossidonio** github stats"/>
+</a>
+
+[website]: https://#/
+[youtube]: https://www.youtube.com/user/#/
+[instagram]: https://www.instagram.com/weslei_drums/
+[linkedin]: https://www.linkedin.com/in/weslei-frança-possidonio-676aa8215/
+<br>
+
+#### Rede Sociais!
+
+🏡 [website][website] **|** 
+📺 [youtube][youtube] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin] 
+
