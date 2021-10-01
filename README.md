@@ -1,6 +1,6 @@
 ### Eaii devs ✌️😁
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Gosto de aprender o novo e de desafios, pois onde á novos desafios á novos aprendizados.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -31,11 +31,11 @@ object **WesleiPossidonio** {
 
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=WesleiPossidonio&show_icons=true&theme=dracula&line_height=27" alt="**WesleiPossidonio** github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleiPossidonio&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleiPossidonio&theme=dracula&hide_langs_below=1" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=WesleiPossidonio&show_icons=true&theme=dracula&line_height=27" alt="**WesleiPossidonio** github stats"/>
 </a>
 
 [website]: https://#/
