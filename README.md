@@ -4,7 +4,7 @@ Gosto de aprender o novo e de desafios, pois onde á novos desafios á novos apr
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="390" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif"/>
+<img align="right" width="380" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif"/>
 
 ```kotlin
 object **WesleiPossidonio** {
