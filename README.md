@@ -1,6 +1,6 @@
-### Eaii devs ✌️😁
+# hii devs! I'm Weslei França ✌️😁
 
-Gosto de aprender o novo e de desafios, pois onde á novos desafios á novos aprendizados.
+Gosto de aprender o novo e de desafios, pois onde à novos desafios à novos aprendizados.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -16,38 +16,31 @@ object **WesleiPossidonio** {
 
 }
 ```
+<h2>📚 Tecnologias e Feramentas </h2>
+<div style="display: inline_block">
+  <img align="center" alt="Weslei-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Weslei-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Weslei-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Weslei-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img align="center" alt="Weslei-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" alt="Weslei-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/> 
+  </div><br>
+  
+                                                                                                                       🔗 Links
+   <a href="#" target="_blank"><img align="right" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img align="right" rc="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/weslei_drums/" target="_blank"><img  align="right" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:weslwiranca123@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wesleifranca/" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
+   
+  <h2>💻🔥 GitHub Estatísticas</h2>
 
-## **Linguagens e Ferramentas:**  
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
-
-## **GitHub Estatísticas**
-
-
+<div>
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleiPossidonio&theme=dracula&hide_langs_below=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleiPossidonio&theme=dracula&hide_langs_below=1"/>
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=WesleiPossidonio&show_icons=true&theme=dracula&line_height=27" alt="**WesleiPossidonio** github stats"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=WesleiPossidonio&show_icons=true&theme=dracula&line_height=27" alt="**WesleiPossidonio** github stats"/>
 </a>
-
-[website]: https://#/
-[youtube]: https://www.youtube.com/user/#/
-[instagram]: https://www.instagram.com/weslei_drums/
-[linkedin]: https://www.linkedin.com/in/weslei-frança-possidonio-676aa8215/
-<br>
-
-#### Rede Sociais!
-
-🏡 [website][website] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin] 
-
+</div>
