@@ -1,8 +1,8 @@
-<h1>Eaii devs! <br> Eu sou Weslei França ✌️😁</h1>
+<h1  align="center">Eaii devs! <br> Eu sou Weslei França ✌️😁</h1>
 
-Gosto de aprender o novo e de desafios, pois onde à novos desafios à novos aprendizados.
+<p align="center"> Gosto de aprender o novo e de desafios, pois onde à novos desafios à novos aprendizados.</p>
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+##  👾🖱 Mais sobre mim
 
 <img align="right" width="380" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif"/>
 
