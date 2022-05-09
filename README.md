@@ -12,7 +12,7 @@ object **WesleiPossidonio** {
  val acknowledgements = "Desenvolverdor Front-End"
  
  val primarySkillset = "humility, agility, teamwork"
- val  = listOf("HTML", "CSS", "JavaScript", "Git","Bootstrap") 
+ val  = listOf("HTML", "CSS", "JavaScript", 'Node.js", "React.js" "Git","Bootstrap") 
 
 }
 ```
